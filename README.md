@@ -5,7 +5,7 @@ ASP.Net based Car Rental Software designed to simplify the management and bookin
 
 As complete car rental management software, Rental Car Software can provide your business with immediate and ongoing benefits, meaning better margins and cost efficiency in all aspects of the business. Car Rental Booking starts managing your quotes or bookings as soon as your customer enquiries on your website from their mobile or desktop. With a simple and elegant workflow, your quotes and booking requests become unallocated bookings or reservations with a minimum number of steps. This rental car management system will help simplify and manage all your business processes to ensure fleet efficiencies. And customers will know exactly what the status of their booking is at any point in time.
 
-<img src="https://www.aspscriptsonline.com/product/car-rental-software/">
+<img src="https://www.aspscriptsonline.com/wp-content/uploads/2016/11/Rental-Car-Software-1.png">
 
 <b>Car Rental Management Software has the following key features:</b>
 
